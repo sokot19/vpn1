@@ -2,11 +2,11 @@
   "ads": "true",
   "update": [
     {
-      "version": "version 1.0.0",
+      "version": "version 2.0.0",
       "title": "Fast & Secure",
       "description": "https://play.google.com/store/apps/details?id=com.vipvpn.vpnfree.app",
       "size": "1",
-      "force_update": "no",
+      "force_update": "yes",
       "ads": "yes",
       "adunitid": "ca-app-pub-1291815713347445~1774456373",
       "idinterestitial": "ca-app-pub-1291815713347445/4686741938",

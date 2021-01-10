@@ -1,0 +1,70 @@
+{
+  "ads": "true",
+  "update": [
+    {
+      "version": "version 1.0.0",
+      "title": "Fast & Secure",
+      "description": "",
+      "size": "1",
+      "force_update": "no",
+      "ads": "yes",
+      "adunitid": "ca-app-pub-1291815713347445~1774456373",
+      "idinterestitial": "ca-app-pub-1291815713347445/4686741938",
+      "idbanner": "ca-app-pub-1291815713347445/3944505906",
+      "idrewarded": "ca-app-pub-3940256099942544/5224354917",
+      "showrewarded": "no"
+    }
+  ],
+  "blocked": [
+    {
+      "id": 0,
+      "app": "com.android.game"
+    },
+    {
+      "id": 1,
+      "app": "com.utorrent.client"
+    },
+    {
+      "id": 2,
+      "app": "com.torrent.client"
+    },
+    {
+      "id": 3,
+      "app": "com.tor.client"
+    },
+    {
+      "id": 4,
+      "app": "com.insta.client"
+    },
+    {
+      "id": 5,
+      "app": "com.facebook.client"
+    },
+    {
+      "id": 6,
+      "app": "com.get.client"
+    }
+  ],
+  "free": [
+    {
+      "id": 0,
+      "file": 0,
+      "city": "Germany",
+      "country": "Germany",
+      "image": "germany",
+      "ip": "188.34.137.53",
+      "active": "true",
+      "signal": "a"
+    },
+    {
+      "id": 1,
+      "file": 1,
+      "city": "England",
+      "country": "England",
+      "image": "england",
+      "ip": "51.254.236.90",
+      "active": "true",
+      "signal": "a"
+    }
+  ]
+}

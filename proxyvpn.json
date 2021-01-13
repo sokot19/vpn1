@@ -2,11 +2,7 @@
   "ads": "true",
   "update": [
     {
-      "version": "",
-      "title": "Fast & Secure",
-      "description": "",
-      "size": "1",
-      "force_update": "yes",
+      
       "ads": "yes",
       "adunitid": "ca-app-pub-1291815713347445~1774456373",
       "idinterestitial": "ca-app-pub-1291815713347445/4686741938",

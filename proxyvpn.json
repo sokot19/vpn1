@@ -1,6 +1,6 @@
 {
   "ads": "true",
-   [
+   
     {
             "ads": "yes",
       "adunitid": "ca-app-pub-1291815713347445~1774456373",
@@ -8,8 +8,7 @@
       "idbanner": "ca-app-pub-1291815713347445/3944505906",
       "idrewarded": "ca-app-pub-3940256099942544/5224354917",
       "showrewarded": "no"
-    }
-  ],
+    },
   "blocked": [
     {
       "id": 0,

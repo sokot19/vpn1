@@ -1,9 +1,8 @@
 {
   "ads": "true",
-  "update": [
+   [
     {
-      
-      "ads": "yes",
+            "ads": "yes",
       "adunitid": "ca-app-pub-1291815713347445~1774456373",
       "idinterestitial": "ca-app-pub-1291815713347445/4686741938",
       "idbanner": "ca-app-pub-1291815713347445/3944505906",
